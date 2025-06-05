@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "LANGUAGE_KEY": "[Key]",
+    "LANGUAGE_ENDPOINT": "[Endpoint URL]",
+    "CLU_PROJECT_NAME": "[Project name]",
+    "CLU_DEPLOYMENT_NAME": "[Deployment name]"
+  }
+}
