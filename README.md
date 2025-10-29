@@ -2,7 +2,7 @@
 Using CLU to recognise a set timer command (text-based)
 
 This programme is based on [Microsoft IoT For Beginners | Chapter 6, lesson 2](https://github.com/microsoft/IoT-For-Beginners/tree/main/6-consumer/lessons/2-language-understanding).
-Since LUIS is reaching EOS in October of 2025, I felt the need to migrate this to CLU.
+Since LUIS is reaching EOS in October of 2025, this is migrated to CLU.
 
 ## Precaution
 This runs on Python 3.9, I have not tested it elsewhere so proceed at your own risk.
